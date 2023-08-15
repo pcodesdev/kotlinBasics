@@ -58,9 +58,11 @@
 //}
 
 //Booleans
-
+//Multiline comment
+/*
 fun main(){
     val notificationsEnabled: Boolean=false
 
     println("Are yor phone notification settings enabled? $notificationsEnabled")
 }
+ */
